@@ -1,10 +1,10 @@
-SublimeLinter-coffee
+SublimeLinter-lsc
 -------------------------------
-This linter plugin for SublimeLinter provides an interface to coffee.
+This linter plugin for SublimeLinter provides an interface to lsc.
 
 ** IMPORTANT! **
 
 Before this plugin will activate, you *must*
 follow the installation instructions here:
 
-https://github.com/SublimeLinter/SublimeLinter-coffee
+https://github.com/szhu/SublimeLinter-lsc
