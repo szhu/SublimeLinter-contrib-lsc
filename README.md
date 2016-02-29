@@ -20,7 +20,7 @@ Before installing this plugin, you must ensure that `lsc` is installed on your s
 
 1. If you are using `nvm` and `zsh`, ensure that the line to load `nvm` is in `.zshenv` and not `.zshrc`.
 
-**Note:** `lsc` 1.5 or later is required for use with this plugin.
+**Note:** `lsc` 1.4 or later is required for use with this plugin.
 
 ### Linter configuration
 In order for `lsc` to be executed by SublimeLinter, you must ensure that its path is available to SublimeLinter. Before going any further, please read and follow the steps in [“Finding a linter executable”](http://sublimelinter.readthedocs.org/en/latest/troubleshooting.html#finding-a-linter-executable) through “Validating your PATH” in the documentation.
